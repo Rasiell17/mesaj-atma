@@ -113,8 +113,11 @@ class WhatsAppBotGUI:
         for idx, row in self.contacts_df.iterrows():
             phone = str(row['Telefon'])
             name = str(row['Firma Adı'])
+            # Mesaj şablonundaki {firma_adi} placeholder'ını işletme adıyla değiştir
+            personalized_message = self.message.replace('{firma_adi}', name)
+            self.log(f'Gönderilecek mesaj: {personalized_message}')
             try:
-                pywhatkit.sendwhatmsg_instantly(f'+{phone}', self.message, wait_time=8, tab_close=True, close_time=5)
+                pywhatkit.sendwhatmsg_instantly(f'+{phone}', personalized_message, wait_time=8, tab_close=True, close_time=5)
                 self.log(f'{name} ({phone}) numarasına mesaj gönderildi.')
             except Exception as e:
                 self.log(f'Hata: {name} ({phone}) numarasına mesaj gönderilemedi. {e}')

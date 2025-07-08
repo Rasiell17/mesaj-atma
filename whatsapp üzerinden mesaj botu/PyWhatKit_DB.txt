@@ -138,3 +138,78 @@ Time: 2:15
 Phone Number: +905432320017
 Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
 --------------------
+Date: 9/7/2025
+Time: 2:41
+Phone Number: +905469790017
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:41
+Phone Number: +905432320017
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:41
+Phone Number: +9054323182817
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:44
+Phone Number: +905469790017
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:44
+Phone Number: +905432320017
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:45
+Phone Number: +9054323182817
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:45
+Phone Number: +905469790017
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:46
+Phone Number: +905432320017
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:46
+Phone Number: +9054323182817
+Message: Merhaba, bu bir test mesajıdır. İyi günler dileriz!
+--------------------
+Date: 9/7/2025
+Time: 2:48
+Phone Number: +905469790017
+Message: "Merhaba Özden Emlak, bu bir test mesajıdır.
+--------------------
+Date: 9/7/2025
+Time: 2:48
+Phone Number: +905469790017
+Message: "Merhaba Doğan Emlak Gayrimenkul, bu bir test mesajıdır.
+--------------------
+Date: 9/7/2025
+Time: 2:49
+Phone Number: +9054323182817
+Message: "Merhaba EMRE DİYER PHOTOGRAPHY, bu bir test mesajıdır.
+--------------------
+Date: 9/7/2025
+Time: 2:49
+Phone Number: +905469790017
+Message: Merhaba Özden Emlak, bu bir test mesajıdır.
+--------------------
+Date: 9/7/2025
+Time: 2:49
+Phone Number: +905469790017
+Message: Merhaba Doğan Emlak Gayrimenkul, bu bir test mesajıdır.
+--------------------
+Date: 9/7/2025
+Time: 2:50
+Phone Number: +9054323182817
+Message: Merhaba EMRE DİYER PHOTOGRAPHY, bu bir test mesajıdır.
+--------------------

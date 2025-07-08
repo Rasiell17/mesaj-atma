@@ -1,1 +1,1 @@
-Merhaba, bu bir test mesajıdır. İyi günler dileriz! 
+Merhaba {firma_adi}, bu bir test mesajıdır.
